@@ -1,0 +1,1 @@
+main.pyを見ればMailSenderの使い方が分かります
